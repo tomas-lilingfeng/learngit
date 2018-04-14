@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\vs2010code\day15\day15\main.cpp(187): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs2010code\day15\day15\main.cpp(197): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2010code\day15\day15\main.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2010code\day15\day15\main.cpp(229): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  day15.vcxproj -> E:\VS2010code\day15\Debug\day15.exe
+  day15.vcxproj -> E:\VS2010code\day15\Debug\day15.pdb (Full PDB)

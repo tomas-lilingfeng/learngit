@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\vs2010code\day5\day5\main.cpp(215): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\vs2010code\day5\day5\main.cpp(216): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  day5.vcxproj -> E:\VS2010code\day5\Debug\day5.exe
+  day5.vcxproj -> E:\VS2010code\day5\Debug\day5.pdb (Full PDB)
